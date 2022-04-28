@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "pc-api-8720088087005961233-823",
+  "private_key_id": "909835d123bddd8b4f36c1c776242b6accfe4e96",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCwGZdfcnXnpEZX\nb5dCbLJ+XtOU5zv9811TKpI1CtVyoaUHxdVFA7E6aSyRyNEpyGpBn7HsOvLIDTZ1\nkiEyMSva4aB/MYzSGJipcneNfIFzbUYGk2Q6wDtQmGc/7BnbKCJjtS2aFbkHJOHV\ni8opokRlsZqHiK9UD/8pKAnCEPxhx8WQGCl3BRuDNaz5vAeGCCaFcjA0mj9+vPpj\nRY+8H3RAf4Ubr2tQdVdtF6Ugngqk44N/gEaChGxF6N6eFD6ndxROP+VKG78jnoiY\nvIcqRMimIbR01vZso/meWHe9aGb7AHDKmvr19iaXuTCWj3Ecd79GHYMfKG7eNvLu\nG2FS+zwZAgMBAAECggEAEnS0KSQxWDQezSYcV7FVqandieMMJgrd8ovpI9b9VNS9\nG4nv1ppS9ji0m5jM1xCylisa9hOdgzrjRMIqaXy+yGNSM1JpnFFImqWtAu6UEJlY\nt/K1k/S2orU+SPRBJ3dW11VTMK1rJWUHqB5M8z0W5wOMmvzHx0sf5lvUXfrywHqH\nA4JKo2CMJucbGdJJqpSTRfwtXISygTgaTSf20LATOmjwGITbLPTq6hvgTO75XQJn\n42D2cDS9WfV6Qi2xH3E+LLH1+wzZImLBgDe0BYxReodSxKsAKpVo3sqBHs1BS97+\nmHEBRgLc7ofMSGaByzw3zLGSSqvVR3H0tLyT8RyxqwKBgQDyf69w3PJmAUQPz5Hm\nqpEFORG9Oz9WHM/nY0fZ/nsNM554GsFVMKXqGaRkz55UOMvZYuKM5wAeou7lhgG/\njjNPQS9eG6rnsEDKaR2iGqH4RYzxH8s9vOBLopfLPhBePD4eSvzWxuGj2bIgTQ83\nfYrJvaZXK80AyuebLHs0FmskhwKBgQC554eFRcbEXLfvnLkVg1PgZ/8x0OUFTVRa\nYlKA/u1wewd1fwWKqTCeGEoRyjbrXf5l7nExOXLW4cRP/KksoVkti1Xwmo2u1aMI\n+PRLMc0nTOP0QGMl7S9lcgUlIlsa/CJybIywsn6kyztYEJhQXbfwX86Xv+rtcNWS\nIpiHhRtiXwKBgENyaCWIDpN4fqm3Hel+P1+og9qSBAe7c8fzwSRMt4Twen8FUgiT\nw1HdV/ACHxNlyKzp6AEwrsPWpYOJRis1Leg5RSdzopFWYG7r1aYkqjAXiB/4q9q8\nEdZ3nqiU1pCfSNe8G57RKikcf4KkbDsO2+9IpF9Se25hARITySCvq5U5AoGAdoO3\nzaqyELTbPhI3nBNhAYrLEcMOfdbSk9xipIHgdPi5xJn5unAp4l+xuK2lXV9Ks0jT\nOIJbR8oeELAOWbly1KojW4PsFy1zBmFPvDA/jXJjUG9Lxf3zXUTXKtlAI2/htfil\nqG/idMRrTLUnpPRaMw+g8PUUm9J3FPahLqQY1RkCgYEA5ohRzd1Xm+wa7v/RPmhZ\n9ojB1NjdKPBxd2MY43yiAYpU57JDFqmv02LkQxhS/rnuFv2M1J17G66iruqfeGhH\nMO5yEOZLDRZtQ5q+5emBZGblGoMZLXFpisYIchhxlvgyZX3fwrQS3K08bAdsLmEs\nm6gx7Zfd7RQsNIOKzn/XmjI=\n-----END PRIVATE KEY-----\n",
+  "client_email": "viva-app-expo@pc-api-8720088087005961233-823.iam.gserviceaccount.com",
+  "client_id": "107584012411859727187",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/viva-app-expo%40pc-api-8720088087005961233-823.iam.gserviceaccount.com"
+}
